@@ -20,12 +20,11 @@ module.exports = {
     'prettier/unicorn'
   ],
   env: {
+    es6: true,
     node: true
   },
   parserOptions: {
-    project: './jsconfig.json',
-    sourceType: 'script',
-    tsconfigRootDir: __dirname
+    sourceType: 'script'
   },
   rules: {
     strict: ['error', 'global'],
