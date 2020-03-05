@@ -6,6 +6,7 @@ Template for creating Node.js apps with JavaScript
 
 - Automatic code checking with TypeScript an ESLint
 - Automatic code formatting and fixing with Prettier
+- Built-in tasks
 - Integration with Visual Studio Code
   - Matching settings
   - Launch and debug code
@@ -28,7 +29,7 @@ This project is intended to be used with Visual Studio Code and the following ex
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
 
-### Available Tasks
+### Built-in Tasks
 
 This project uses npm scripts for running tasks:
 
