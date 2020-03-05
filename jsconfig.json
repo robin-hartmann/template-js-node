@@ -1,0 +1,24 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    /* Basic Options */
+    "checkJs": true,
+    "target": "es2015",
+    /* Strict Type-Checking Options */
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    /* Additional Checks */
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    /* Module Resolution Options */
+    "moduleResolution": "node",
+    /* Advanced Options */
+    "forceConsistentCasingInFileNames": true
+  }
+}

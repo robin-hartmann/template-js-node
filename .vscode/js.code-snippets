@@ -1,0 +1,8 @@
+{
+  "require statement": {
+    "scope": "javascript,typescript",
+    "prefix": "require statement",
+    "body": ["const { $2 } = require('${1:module}')", "$0"],
+    "description": "Require external module."
+  }
+}

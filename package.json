@@ -1,0 +1,37 @@
+{
+  "name": "template-js-node",
+  "version": "0.1.0",
+  "description": "Template for creating node.js apps with JavaScript",
+  "author": "contact.robin.hartmann@gmail.com",
+  "license": "MIT",
+  "main": "src/lib/lib.js",
+  "bin": {
+    "print-pretty-hello-world": "src/bin/bin.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "figlet": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.2.0",
+    "@types/node": "^13.7.7",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-eslint-comments": "^3.1.2",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-unicorn": "^16.1.1",
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "prepublishOnly": "npm run lint",
+    "lint": "eslint . --ext .js",
+    "start": "node src/bin/bin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
