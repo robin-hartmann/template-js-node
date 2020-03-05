@@ -5,7 +5,7 @@ Template for creating Node.js apps with JavaScript
 ## Features
 
 - Automatic code checking with TypeScript an ESLint
-- Automatic formatting and fixing with Prettier
+- Automatic code formatting and fixing with Prettier
 - Integration with Visual Studio Code
   - Matching settings
   - Launch and debug code
