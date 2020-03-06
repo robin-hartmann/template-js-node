@@ -1,7 +1,7 @@
 {
   "name": "template-js-node",
   "version": "0.1.0",
-  "description": "Template for creating Node.js apps with JavaScript",
+  "description": "Template for creating Node.js apps with JavaScript - no transpilation",
   "author": "contact.robin.hartmann@gmail.com",
   "license": "MIT",
   "main": "src/lib/lib.js",
