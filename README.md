@@ -49,7 +49,7 @@ npm publish
 
 VS Code tasks are also included for `lint` and `start`.
 
-## 🔧 Built With
+## 🧰 Built With
 
 - [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript
 - [ESLint](https://eslint.org/) - Find and fix problems in your JavaScript code
