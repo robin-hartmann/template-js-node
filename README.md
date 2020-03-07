@@ -1,6 +1,6 @@
 # 📄 template-js-node
 
-Template for creating Node.js apps with JavaScript - no transpilation
+Project Template for creating Node.js Apps with JavaScript - without transpiling
 
 ## ⭐ Features
 
