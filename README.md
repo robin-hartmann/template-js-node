@@ -47,7 +47,7 @@ npm start
 npm publish
 ```
 
-VS Code tasks for `lint` and `start` are also included.
+VS Code tasks are also included for `lint` and `start`.
 
 ## 🔧 Built With
 
