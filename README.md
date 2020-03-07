@@ -4,14 +4,15 @@ Project Template for creating Node.js Apps with JavaScript - without transpiling
 
 ## ⭐ Features
 
-- Automatic code checking with TypeScript an ESLint
-- Automatic code formatting and fixing with Prettier
+- Automatic code checking with TypeScript
 - Built-in tasks
 - Integration with Visual Studio Code
-  - Matching settings
-  - Launch and debug code
-  - Task definitions
-  - Extension recommendations
+  - Settings
+  - Tasks
+  - Debuging
+  - Extensions
+    - Automatic code checking with ESLint
+    - Automatic code formatting and fixing with Prettier
 
 ## 🛠️ Development
 
@@ -47,3 +48,16 @@ npm publish
 ```
 
 VS Code tasks for `lint` and `start` are also included.
+
+## 🔧 Built With
+
+- [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript
+- [ESLint](https://eslint.org/) - Find and fix problems in your JavaScript code
+
+## 👨‍💻 Authors
+
+- **Robin Hartmann** - [robin-hartmann](https://github.com/robin-hartmann)
+
+## 📃 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
