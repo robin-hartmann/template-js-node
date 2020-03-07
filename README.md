@@ -5,7 +5,7 @@ Project Template for creating Node.js Apps with JavaScript - without transpiling
 ## ⭐ Features
 
 - Automatic code checking with TypeScript
-- Built-in tasks
+- Built-in tasks using npm scripts
 - Integration with Visual Studio Code
   - Settings
   - Tasks
