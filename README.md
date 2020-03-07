@@ -1,4 +1,4 @@
-# 📄 template-js-node
+# 📄 template-node-js
 
 Project Template for creating Node.js Apps with JavaScript - without transpiling
 

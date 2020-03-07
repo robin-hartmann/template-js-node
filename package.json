@@ -1,5 +1,5 @@
 {
-  "name": "template-js-node",
+  "name": "template-node-js",
   "version": "0.1.0",
   "description": "Project Template for creating Node.js Apps with JavaScript - without transpiling",
   "author": "contact.robin.hartmann@gmail.com",
