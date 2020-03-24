@@ -4,7 +4,7 @@
 
 const { run } = require('./run')
 
-run().catch(error => {
+run().catch((error) => {
   /* eslint-disable no-console */
   console.error('Uncaught error in run():')
   console.error(error)
