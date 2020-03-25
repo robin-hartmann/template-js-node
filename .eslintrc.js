@@ -6,7 +6,7 @@ module.exports = {
     'node',
     'prettier',
     'promise',
-    'unicorn'
+    'unicorn',
   ],
   extends: [
     'airbnb-base',
@@ -17,14 +17,14 @@ module.exports = {
     'plugin:promise/recommended',
     'plugin:unicorn/recommended',
     'prettier',
-    'prettier/unicorn'
+    'prettier/unicorn',
   ],
   env: {
     es6: true,
-    node: true
+    node: true,
   },
   parserOptions: {
-    sourceType: 'script'
+    sourceType: 'script',
   },
   rules: {
     // Too restrictive, writing ugly code to defend against a very unlikely scenario: https://eslint.org/docs/rules/no-prototype-builtins
@@ -34,6 +34,6 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'import/no-default-export': 'error',
     // Common abbreviations are known and readable
-    'unicorn/prevent-abbreviations': 'off'
-  }
+    'unicorn/prevent-abbreviations': 'off',
+  },
 }
