@@ -27,6 +27,7 @@ module.exports = {
     sourceType: 'script',
   },
   rules: {
+    curly: ['error', 'all'],
     // Too restrictive, writing ugly code to defend against a very unlikely scenario: https://eslint.org/docs/rules/no-prototype-builtins
     'no-prototype-builtins': 'off',
     strict: ['error', 'global'],
