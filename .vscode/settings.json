@@ -17,8 +17,5 @@
   "prettier.endOfLine": "lf",
   "prettier.requireConfig": true,
   "javascript.format.semicolons": "remove",
-  "javascript.preferences.quoteStyle": "single",
-  "[markdown]": {
-    "editor.tabSize": 4
-  }
+  "javascript.preferences.quoteStyle": "single"
 }

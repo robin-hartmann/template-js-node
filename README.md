@@ -30,7 +30,7 @@ This project is intended to be used with Visual Studio Code and the following ex
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
 
-### 🚀 Built-in Tasks
+### 🚀 Getting Started
 
 This project uses npm scripts for running tasks:
 
